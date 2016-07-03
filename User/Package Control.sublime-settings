@@ -14,6 +14,7 @@
 		"Emmet",
 		"FileHeader",
 		"Git",
+		"Gitignore",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"jQuery",
@@ -28,6 +29,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeREPL",
+		"SyncedSidebarBg",
 		"Theme - Soda",
 		"Themr",
 		"TrailingSpaces"
