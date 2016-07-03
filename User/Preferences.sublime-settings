@@ -1,0 +1,31 @@
+{
+	"auto_complete_commit_on_tab": false,
+	"auto_find_in_selection": true,
+	"auto_indent": true,
+	"auto_match_enabled": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Bright (SL).tmTheme",
+	"command": "toggle_trailing_spaces",
+	"default_encoding": "UTF-8",
+	"draw_white_space": "all",
+	"font_face": "Consolas",
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"material_theme_accent_orange": true,
+	"show_encoding": true,
+	"show_full_path": true,
+	"spell_check": false,
+	"sublimelinter": "save-only",
+	"sublimelinter_executable_map":
+	{
+		"css": "C:/Program Files/nodejs/node.exe",
+		"javascript": "C:/Program Files/nodejs/node.exe"
+	},
+	"tab_size": 4,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"update_check": false
+}

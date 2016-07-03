@@ -1,0 +1,10 @@
+{
+//备份保存路劲
+"backup_dir": "",
+//备份打开的文档
+"backup_on_open_file": true,
+//是否每天进行备份，备份文件以日期的形式分类放在保存路径下d 
+"backup_on_open_file": false,
+//限制备份文件大小上限，嘿！无下限~
+"backup_on_open_file": 262144 // = 256 KB
+}

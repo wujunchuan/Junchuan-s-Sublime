@@ -1,0 +1,9 @@
+{
+    "JavaScript": {
+        "javascriptExtraPaths": []
+    },
+    "Python3": {
+        "python": 'D:\Python',
+        "pythonExtraPaths": []
+    }
+}

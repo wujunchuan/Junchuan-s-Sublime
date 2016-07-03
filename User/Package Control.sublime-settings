@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Clickable URLs",
+		"Clipboard Manager",
+		"ConvertToUTF8",
+		"CSScomb",
+		"Emmet",
+		"FileHeader",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"jQuery",
+		"JsFormat",
+		"JSLint",
+		"LiveReload",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme - White Panels",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Theme - Soda",
+		"Themr",
+		"TrailingSpaces"
+	]
+}
