@@ -1,6 +1,14 @@
 {
+	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
+	"theme": "Spacegray Eighties.sublime-theme",
 	"extensions":
 	[
 		"md"
-	]
+	],
+	"auto_complete_triggers": [
+		{
+		"characters": ":",
+		"selector": "text.html.markdown"
+		},
+	],
 }
