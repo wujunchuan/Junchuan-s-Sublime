@@ -109,5 +109,12 @@
 	}, {
 		"keys": ["ctrl+alt+a"],
 		"command": "alignment"
+	}, {
+		"keys": ["alt+;"],
+		"command": "run_macro_file",
+		"args": {
+			"file": "Packages/User/semicolon.sublime-macro"
+		}
 	}
+
 ]

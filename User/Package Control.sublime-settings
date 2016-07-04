@@ -6,11 +6,14 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"AutoFileName",
 		"BracketHighlighter",
 		"Clickable URLs",
 		"Clipboard Manager",
+		"Color Highlighter",
 		"ConvertToUTF8",
 		"CSScomb",
+		"DocBlockr",
 		"Emmet",
 		"Emoji",
 		"FileHeader",
