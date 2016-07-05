@@ -115,6 +115,14 @@
 		"args": {
 			"file": "Packages/User/semicolon.sublime-macro"
 		}
+	}, {
+		"keys": ["ctrl+w"],
+		"command": "expand_region"
+	}, {
+		"keys": ["ctrl+shift+w"],
+		"command": "expand_region",
+		"args": {"undo": true },
+		"context": [{"key": "expand_region_soft_undo"}]
 	}
 
 ]
