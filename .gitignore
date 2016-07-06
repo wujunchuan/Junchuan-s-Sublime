@@ -3,3 +3,5 @@ User/encoding_cache.json
 User/Package Control.last-run
 User/SublimeTextTrans.sublime-settings
 User/Color Highlighter/themes/base16-eighties.dark (SL).tmTheme
+*.merged-ca-bundle
+*.system-ca-bundle
