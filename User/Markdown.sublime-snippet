@@ -6,6 +6,7 @@ tags: ${2:杂谈}
 categories: 编程随想
 ---
 
+<!--more-->
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>mdtitle</tabTrigger>
